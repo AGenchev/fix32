@@ -15,7 +15,7 @@
 @ Execution time: 4-6 cycles
 @ Absolute error: 0 LSB
 
-        .section   .fix32_abs, "x"
+@        .section   .fix32_abs, "x"
         .align
 
 fix32_abs:
